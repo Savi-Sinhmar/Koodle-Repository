@@ -1,0 +1,36 @@
+C:\Users\savi1\Source\Repos\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\savi1\Source\Repos\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\savi1\Source\Repos\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+C:\Users\savi1\Source\Repos\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\savi1\Source\Repos\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\savi1\Source\Repos\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\savi1\Source\Repos\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\savi1\Source\Repos\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\savi1\Source\Repos\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\Harsh chaudhary\Downloads\KoodleProject (1)\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.pdb
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\savi1\Desktop\Pagalsi\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.pdb
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\savi1\Desktop\FinalProjectKoodle\KoodleProject\Core\obj\Debug\netcoreapp2.1\Core.pdb
